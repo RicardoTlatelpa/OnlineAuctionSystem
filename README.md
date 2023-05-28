@@ -24,3 +24,5 @@ A shipping price is calculated based on the location of the buyer, and the payme
 ## Table Mapping
 ![tableMapping](https://github.com/RicardoTlatelpa/OnlineAuctionSystem/assets/19786880/05760edf-4629-4e77-9778-2d4c8d2f3b74)
 
+For the table mapping, I used the [entity relation diagram 7 step algorithm](https://www.tutorialspoint.com/explain-the-conversion-of-er-diagrams-to-tables-in-dbms) to map the appropriate entities and their relationships into tables.
+For Most of the entities, a foreign key approach was used to allow for tables to JOIN in the SQL database.
